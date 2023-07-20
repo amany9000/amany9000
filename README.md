@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Aman</h1>
+<h1 align="center"><img src="./hey.gif" width="32"> Hola, I'm Aman</h1>
 
 <div align="center">
 
