@@ -19,3 +19,9 @@
 - 📄 To know about my experiences, check out my [resume](https://drive.google.com/drive/folders/1SEhK383pB0b1NjKvOGEIC_wy0vP4ZpMW).
 - 💬 Besides programming DLTs, I also love movies, swimming, badminton, table tennis and reading.
 - 🌱 Currently learning Rust.
+---
+
+## Articles 
+- [Cryptography](https://www.topcoder.com/thrive/articles/Blockchain%20Prerequisites%20-%20Cryptography%20Concepts)
+- [Computer Networking](https://www.topcoder.com/thrive/articles/Blockchain%20Prerequisites%20-%20Computer%20Networking)
+---
