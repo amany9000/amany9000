@@ -26,3 +26,11 @@
 - [Cryptography](https://www.topcoder.com/thrive/articles/Blockchain%20Prerequisites%20-%20Cryptography%20Concepts)
 - [Computer Networking](https://www.topcoder.com/thrive/articles/Blockchain%20Prerequisites%20-%20Computer%20Networking)
 ---
+
+
+## Workshops/Faculty Training Sessions Conducted 
+- [AICTE Academy](https://www.linkedin.com/posts/aman-yadav-4880bb152_blockchain-ethereum-solidity-activity-6686677684229083136-idk3?utm_source=share&utm_medium=member_desktop)
+- [VIT Vellore](https://www.linkedin.com/posts/aman-yadav-4880bb152_technology-blockchain-dlt-activity-6994558049113784320-y3mp?utm_source=share&utm_medium=member_desktop)
+- [IIIT Vadaora](https://www.linkedin.com/posts/aman-yadav-4880bb152_blockchain-cryptography-session-activity-6523069813181509632-CoyY?utm_source=share&utm_medium=member_desktop)
+- [MMCOE](https://www.linkedin.com/posts/aman-yadav-4880bb152_blockchain-workshop-ethereum-activity-7045706609544638464-hZGH?utm_source=share&utm_medium=member_desktop)
+---
