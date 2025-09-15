@@ -11,18 +11,17 @@
 
 ---
 
-- 👩‍💻 Software Engineer specialising in Blockchain and Backend development.
-- ⛓️ Currently working at [Seneca](https://www.seneca.tech/).
+- 👩‍💻 Software Engineer specialising in AI, Blockchain and Backend development.
 - ☀️  GSoC'19 contributor at [Haskell](https://www.haskell.org/).
 - 🎓 IIIT Vadodara 2020.
 - 🛠 Proficient with Blockchain(Ethereum, IPFS, Bitcoin, Polkadot) development, Node.js, Python, TS and several cryptographic paradigms(PKI, Confidential Computing, Secret Sharing Methodologies).
 - 👯 Looking to collaborate on interesting Blockchain projects.
 - 📄 To know about my experiences, check out my [resume](https://drive.google.com/drive/folders/1SEhK383pB0b1NjKvOGEIC_wy0vP4ZpMW).
-- 💬 Besides programming DLTs, I also love movies, swimming, badminton, table tennis and reading.
-- 🌱 Currently learning Rust.
+- 💬 Besides programming emerging tech, I also love movies, swimming, badminton, table tennis and reading.
 
 
 ## Articles 
+- [Post-Quantum JWT](https://medium.com/@amanyadavlko2502/post-quantum-jwts-592537c089d1)
 - [Cryptography](https://www.topcoder.com/thrive/articles/Blockchain%20Prerequisites%20-%20Cryptography%20Concepts)
 - [Computer Networking](https://www.topcoder.com/thrive/articles/Blockchain%20Prerequisites%20-%20Computer%20Networking)
 ---
