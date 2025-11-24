@@ -11,11 +11,11 @@
 
 ---
 
-- 👩‍💻 Software Engineer specialising in AI, Blockchain and Backend development.
+- 👩‍💻 Software Engineer specialising in AI/ML and Backend development.
 - ☀️  GSoC'19 contributor at [Haskell](https://www.haskell.org/).
 - 🎓 IIIT Vadodara 2020.
-- 🛠 Proficient with Blockchain(Ethereum, IPFS, Bitcoin, Polkadot) development, Node.js, Python, TS and several cryptographic paradigms(PKI, Confidential Computing, Secret Sharing Methodologies).
-- 👯 Looking to collaborate on interesting Blockchain projects.
+- 🛠 Proficient with Agentic Development (MCP, RAG, Langchain, VectorDB, Pytorch, FastAPI), Python, TS, Node.js, and several cryptographic paradigms(PKI, Confidential Computing, Secret Sharing Methodologies).
+- 👯 Looking to collaborate on interesting AI/ML projects.
 - 📄 To know about my experiences, check out my [resume](https://drive.google.com/drive/folders/1SEhK383pB0b1NjKvOGEIC_wy0vP4ZpMW).
 - 💬 Besides programming emerging tech, I also love movies, swimming, badminton, table tennis and reading.
 
